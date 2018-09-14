@@ -6,7 +6,7 @@
 ["ChangeLog"]="【《泡泡马甲》客户端已有更新版本，请下载体验！】\
 本次更新主要内容：\
 修复客户端已知bug",
-["Force"]="true",
+["Force"]="flase",
 ["Version"]="1.1",
 ["UseVersionName"]="true",
 },
