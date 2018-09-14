@@ -2,7 +2,7 @@
 ["Notice"]={
 },
 ["Update"]={
-["DownloadUrl"]="https://www.ycygame.cn/app/app.apk",
+["DownloadUrl"]="http://paopaomj.cqsn.net/paopaomj_1.1.apk",
 ["ChangeLog"]="【《泡泡马甲》客户端已有更新版本，请下载体验！】\
 本次更新主要内容：\
 1、增加背景音乐",
