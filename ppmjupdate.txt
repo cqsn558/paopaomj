@@ -5,7 +5,7 @@
 ["DownloadUrl"]="https://www.ycygame.cn/app/app.apk",
 ["ChangeLog"]="【《泡泡马甲》客户端已有更新版本，请下载体验！】\
 本次更新主要内容：\
-修复客户端已知bug",
+1、增加背景音乐",
 ["Force"]="flase",
 ["Version"]="1.1",
 ["UseVersionName"]="true",
